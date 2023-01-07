@@ -23,4 +23,4 @@ A collection of assets you can use to make a Tim &amp; Eric-skit-style 'Great Jo
 * Your video editor must have alpha-channel support to use the animation video provided
 * See the screenshot for roughly how the clips will be arranged to make the end card
 ## End Card Timeline Example
-![Screenshot demonstrating final timeline configuration](/GreatJobEndCardTimelineExample.jpg)
+![Screenshot demonstrating final timeline configuration](/GreatJobEndCardTimelineExample02.jpg)
